@@ -1,4 +1,4 @@
-import tei_dataclass
+import tei_dataclasses
 from bs4 import BeautifulSoup
 
 def elem_to_text(elem, default=''):
